@@ -21,24 +21,27 @@ h3{
 
 }
 .shahabaz_img {
-  height: 400px;
-  width: 220px;
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
 }
 
 .cording_img{
   height: 300px;
   width: 300px;
+  border-radius: 50%;
+
 
 }
 
 .skill-row-img{
   height: 300px;
   width: 300px;
+  border-radius: 5%;
 
 }
 .middle-container {
 
-background-color: red;
 
 }
 .bottom-container {
